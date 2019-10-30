@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
+#__pycache__/
 *.py[cod]
 *$py.class
 
@@ -89,10 +89,10 @@ ENV/
 .ropeproject
 
 # SQLite3 database
-db.sqlite3
+#db.sqlite3
 
 # Test code file
-__test__.py
+#__test__.py
 
 # VSCode file
 settings.json
